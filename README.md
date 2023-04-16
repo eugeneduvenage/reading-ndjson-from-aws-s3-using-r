@@ -1,6 +1,6 @@
 # Read NDJSON from an AWS S3 bucket With R
 
-A demo project to showcase read gzipped NDJSON from AWS S3 using R.
+A demo project to showcase reading gzipped NDJSON from AWS S3 using R.
 
 Accompanies the blog post here: [https://www.eugeneduvenage.com/blog/read-aws-s3-data-with-r/](https://www.eugeneduvenage.com/blog/read-aws-s3-data-with-r/).
 
